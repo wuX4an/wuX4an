@@ -50,4 +50,5 @@
 </p>
 
 ## **About me**
-I'm a begginer python programer who wants to specialize. I hope that my first project can be useful for the community of apine :)
+I'm a begginer python programer who wants to specialize.
+I hope that my first project can be useful for the community of apine :)
