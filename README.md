@@ -11,7 +11,7 @@
 
 ## **Im working in...**
 <h5>
-<li><strong>Alitle, It is a script to configure alpine in Docker, I hope it is useful for users who use Docker containers for small virtual machines.</strong></li>
+<li><strong>Alitle: It is a script to configure alpine in Docker, I hope it is useful for users who use Docker containers for small virtual machines.</strong></li>
 </h5>
 
 
