@@ -20,7 +20,7 @@
 
 ## **Finsihed proyects...**
 
-<li><strong>none :(<strong></li>
+<li><strong>What do you care?<strong></li>
 
 ---
 
