@@ -52,3 +52,6 @@
 ## **About me**
 I'm a begginer python programer who wants to specialize. <br> 
 I hope that my first project can be useful for the community of apine :)
+... (Boring, what a stupid aspiration)
+
+-- **I want to specialize in dart and create cross-platform apps. Oh yeah** --
