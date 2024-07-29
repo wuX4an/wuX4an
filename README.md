@@ -37,7 +37,7 @@
 <h2>
 
 
-**Languages and Tools:**
+**🛠️ Languages and Tools 🧰:**
 
 <p align="center">
 
@@ -49,7 +49,7 @@
   </div>
 </p>
 
-## **About me**
+## **About me 🧙🏿‍♂️ **
 I'm a begginer python programer who wants to specialize. <br> 
 I hope that my first project can be useful for the community of apine :)
 ... (Boring, what a stupid aspiration)
