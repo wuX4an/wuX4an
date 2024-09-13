@@ -42,7 +42,7 @@
 <p align="center">
 
   <div align="center"> 
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>   
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -50,8 +50,8 @@
 </p>
 
 ## **About me 🧙🏿‍♂️**
-I'm a begginer python programer who wants to specialize. <br> 
-I hope that my first project can be useful for the community of apine :)
-... (Boring, what a stupid aspiration)
+I'm a begginer python programer. <br>
+If you value your time, get out of this account.
+... (Boring)
 
--- **👾👾👾 I want to specialize in dart and create cross-platform apps. Oh yeah 👾👾👾** --
+-- **👾👾👾 Why Innovation is so hard? :( 👾👾👾** --
